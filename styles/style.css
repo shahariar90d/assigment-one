@@ -1,0 +1,67 @@
+.new-year{
+    background-image: url("Banner Image.png");
+    width: 1320px;
+    height: 600px;
+    /* flex-shrink: 0; */
+    margin-left: 280px;
+    margin-bottom: 100px;
+    
+
+}
+.pragrap-title{
+        color: #fff;
+        font-size: 32px;
+        font-weight: 400px;
+        line-height: normal;
+        text-align: center;
+       
+        
+}
+.heading-one{
+ color: #FFF;
+text-align: center;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+font-family: open sans;
+font-family: Merriweather;
+/* padding-bottom: 100px; */
+
+
+
+}
+.section-one{
+   padding: 130px 177px 380px 330px;
+    width: 600px;
+    
+}
+.shahariar{
+    text-align: center;
+}
+.kabir{
+    color: red;
+    font-size: 49px;
+}
+.amar{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    
+}
+.Heading-one{
+color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.div-three{
+    width: 200px;
+  padding:0px 500px;
+}
