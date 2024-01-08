@@ -128,3 +128,109 @@ span{
     padding: 10px;
     border: 0px;
 }
+.section-four{
+    margin-left: 310px;
+  
+}
+.paragrap-jhk{
+    color: #F00;
+}
+.heading-ghh{
+    font-size: 29px;
+}
+.rrr{
+    display: flex;
+    gap: 30px;
+   padding-left: 300px;
+   padding-top: 10px;
+}
+.secyoimj{
+    margin-bottom: 200px;
+}
+.div-number{
+    text-align: center;
+}
+.her{
+    font-size: 50px;
+}
+.zxcc{
+    color: #474747;
+   
+}
+.input{
+    color: #474747;
+    background: #FFF;
+    padding: 10px;
+    border-radius: 10px;
+    border: 0px;
+    font-size: 21px;
+}
+.button{
+    background: red;
+    padding: 10px;
+    border-radius: 10px;
+    border: 0px;
+    font-size: 21px;
+}
+.div-number{
+    width: 600px;
+    padding-left: 700px;
+}
+.web{
+    /* background: wheat; */
+    width: 1320px;
+    height: 616px;
+padding-right: 200px;
+margin-bottom: 100px;
+}
+.bandas{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+ 
+   
+}
+.footer{
+    background: #070211;
+    height: 600px;
+}
+.herf{
+    font-size: 39px;
+    color: #FFF;
+    width: 600px;
+    padding: 50px;
+    
+}
+.divbb{
+    font-size: 21px;
+    color: #FFF;
+    width: 500px;
+    padding-top: 100px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.java{
+    padding-left: 800px;
+    
+   
+}
+img{
+    padding: 10px;
+}
+.kana{
+    color: white;
+    font-size: 21px;
+    padding-left: 100px;
+}
+.nmk{
+    color: #FFF;
+    font-size: 25px;
+  
+}
+.your{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 100px;
+}
