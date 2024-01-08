@@ -146,6 +146,7 @@ span{
 }
 .secyoimj{
     margin-bottom: 200px;
+    padding-top: 300px;
 }
 .div-number{
     text-align: center;
@@ -174,13 +175,14 @@ span{
 }
 .div-number{
     width: 600px;
-    padding-left: 700px;
+    padding-left: 450px;
+    
 }
 .web{
-    /* background: wheat; */
-    width: 1320px;
+    background: wheat;
+  margin: 350px;
     height: 616px;
-padding-right: 200px;
+   padding-right: 400px;
 margin-bottom: 100px;
 }
 .bandas{
@@ -233,4 +235,58 @@ img{
     display: flex;
     justify-content: space-between;
     padding-right: 100px;
+}
+#maindiv{
+    display: flex;
+    justify-content: space-between;
+}
+#ahkk{
+    width: 500px;
+    padding-left: 200px;
+}
+.mor{
+    width: 500px;
+    padding-left: 150px;
+    
+}
+#one{
+    color: #F00;
+  
+}
+#teo{
+    font-size: 45px;
+}
+.loo{
+    font-size: 21px;
+    margin-right: 80px;
+
+  
+}
+#kal{
+    padding-left: 1500px;
+ 
+}
+.rang{
+    text-align: center;
+    width: 600px;
+    padding-left: 800px;
+}
+#hhh{
+    font-size: 21px;
+    color: #474747;
+}
+#yuu{
+    font-size: 39px;
+}
+.del{
+    color: #F00;
+}
+.amnajj{
+    display: flex;
+    width: 600px;
+   
+}
+.dwevlo{
+    margin-left: 300px;
+  padding-bottom: 50px;
 }
