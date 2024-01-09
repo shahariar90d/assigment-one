@@ -109,9 +109,11 @@ line-height: 88px;
 }
 .awee{
     text-align: center;
-  
+  /* margin: 400px; */
     height: 182px;
-    padding-bottom: 400px;
+    /* padding-bottom: 400px; */
+    /* background-color: #e0d9d9; */
+    padding: 150px;
  
 }
 .qwer{
@@ -165,6 +167,8 @@ span{
     border-radius: 10px;
     border: 0px;
     font-size: 21px;
+   
+
 }
 .button{
     background: red;
@@ -172,6 +176,7 @@ span{
     border-radius: 10px;
     border: 0px;
     font-size: 21px;
+    margin-right: 10px;
 }
 .div-number{
     width: 600px;
@@ -270,6 +275,7 @@ img{
     text-align: center;
     width: 600px;
     padding-left: 800px;
+  
 }
 #hhh{
     font-size: 21px;
@@ -284,9 +290,38 @@ img{
 .amnajj{
     display: flex;
     width: 600px;
+  
    
 }
 .dwevlo{
     margin-left: 300px;
   padding-bottom: 50px;
+}
+#image{
+   border: 30px solid red;
+   border-radius: 300px;
+}
+#kal{
+    position: relative;
+    bottom: 300px;
+    left: 140px;
+}
+#maindiv{
+    padding-top: 50px;
+    margin-top: 50px;
+}
+.mklo{
+  
+    position: absolute;
+    z-index: 1;
+}
+.amnajj{
+   
+    position: relative;
+    top: 260px;
+    z-index: 10;
+}
+.twopiv{
+    padding-top: 100px;
+    z-index: 1;
 }
